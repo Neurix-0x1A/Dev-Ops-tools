@@ -1,7 +1,7 @@
 # Dev-Ops-tools
 # Curated List of Best DevOps Tools for 2025
 
-A curated collection of the most effective and popular DevOps tools to streamline your development and operations processes for 2024
+A curated collection of the most effective and popular DevOps tools to streamline your development and operations processes for 2025
 
 This repository aims to provide a comprehensive list of DevOps tools, along with brief descriptions. Whether you're new to DevOps or looking to optimize your existing workflow, you'll find valuable resources here.
 
